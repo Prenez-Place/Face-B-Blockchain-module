@@ -133,3 +133,18 @@ At the bottom right of the screen, a button allows to access the settings of the
 | `fragmentsNftAddress` | Address of the smart contract for fragments' NFTs.                                                                               | `0x64F873c5fdc1cE5d61Fd8db2c0d37894C88f1349` |
 
 <img src="./docs/assets/screenshot-settings.png" alt="client-settings" style="height:256px;" />
+
+## Deployment
+
+**⚠ Use this project at your own risk. This experimental program is available on an "as is" basis, without warranty of any
+kind, express or implied. The authors expressly disclaim any and all warranties including, without limitation any
+warranty or representation whatsoever regarding the operation of the program.**
+
+Smart contracts have been deployed on Polygon and may be on sale on Open Sea.
+
+- Debates collection: [`0xc6c4bbDd9a7a437dfcCBde2076F6eBa397A2eDf6`](https://opensea.io/collection/prenez-place-debates).
+- Fragments collection: [`0x4C553840bBbC70e37F73Bb4e985749Aa63Eb1102`](https://opensea.io/collection/prenez-place-fragments).
+
+> During the rehearsals of the tour, other collections were used.
+> - Early debates collection: [`0x6AC3F32051D82dd76Df9a1C1C6db44b549135b86`](https://opensea.io/collection/prenez-place-debates-avril-2022).
+> - Early fragments collection: [`0x64F873c5fdc1cE5d61Fd8db2c0d37894C88f1349`](https://opensea.io/collection/prenez-place-fragments-avril-2022).
