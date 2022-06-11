@@ -1,3 +1,6 @@
 [submodule "incandescent-tokens"]
 	path = incandescent-tokens
 	url = https://github.com/Prenez-Place/incandescent-tokens.git
+[submodule "sub-graphs"]
+	path = sub-graphs
+	url = https://github.com/Prenez-Place/sub-graphs.git
