@@ -4,3 +4,6 @@
 [submodule "sub-graphs"]
 	path = sub-graphs
 	url = https://github.com/Prenez-Place/sub-graphs.git
+[submodule "graphical-client"]
+	path = graphical-client
+	url = https://github.com/Prenez-Place/graphical-client.git
